@@ -1,4 +1,4 @@
-package sistemskeoperacije;
+package menjacnica.sistemskeoperacije;
 
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
